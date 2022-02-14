@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.seeMorePostsButton {
+  border: none;
+  padding: 0.4375rem;
+  background-color: white;
+  color: red;
+  font-size: 1.2rem;
+}
